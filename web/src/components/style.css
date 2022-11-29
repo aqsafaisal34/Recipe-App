@@ -1,0 +1,19 @@
+form{
+    margin-top:20px;
+}
+form>input{
+   border-radius:10px; 
+   padding: 5px;
+   margin: 10px;
+}
+button{
+    padding:5px;
+    background-color: rgba(33, 93, 205, 0.595);
+    color: white;
+    margin-left:5px;
+    border-radius: 15px;
+}
+.recipe{
+    border: 1px solid black;
+    margin: 5px 0px;
+}
